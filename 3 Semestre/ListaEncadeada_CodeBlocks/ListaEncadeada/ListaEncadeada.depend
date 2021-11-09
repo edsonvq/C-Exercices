@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555441213 source:e:\workspace_fatec\listaencadeada_codeblocks\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1555438350 source:e:\workspace_fatec\listaencadeada_codeblocks\listaencadeada\main3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+
